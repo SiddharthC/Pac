@@ -1,3 +1,5 @@
+A packet capturing kernel module based on netfilter. Along with a port of the implement in userspace using libpcap.
+
 To run the module:
 
 As user in pwd:
