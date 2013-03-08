@@ -1,4 +1,6 @@
-A packet capturing kernel module based on netfilter. Along with a port of the implement in userspace using libpcap.
+A packet capturing kernel module based on netfilter along with a port of the implement in userspace using libpcap.
+
+Files of interest - packet_filter.c, libpcap_filter.c
 
 To run the module:
 
